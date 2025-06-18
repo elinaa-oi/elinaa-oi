@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @elinaa
-- 👀 I’m interested in ... Game dev and deep learning
+PLease contact me for project information
 
 
 <!---
